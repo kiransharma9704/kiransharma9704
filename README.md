@@ -48,7 +48,7 @@
   <a href="https://leetcode.com/u/samartho4/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://medium.com/@samarthx04">
+  <a href="https://medium.com/@kiransharma970422">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://hashnode.com/@samartho4">
